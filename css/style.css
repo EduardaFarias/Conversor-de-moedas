@@ -1,0 +1,72 @@
+body{
+    font-family: "Roboto mono", monospace;
+    text-align: center;
+    background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Background.png");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.page-title{
+    color: #ffffff;
+    margin: 80px 0 20px;
+    font-size: 45px;
+}
+
+.page-logo{
+    width: 200px;
+}
+
+body > img{
+    margin: 0 10px;
+}
+
+img {
+    max-height: 250px;
+}
+
+.input-text{
+    margin-top: 20px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+#valorEmReal{
+    margin-top: 10px;
+    border-radius: 50px;
+    width: 50px;
+    height: 25px;
+}
+
+.convert-button{
+    margin-top: 30px;
+    border-radius: 50px;
+    height: 60px;
+    width: 100px;
+    background-color: darkblue;
+    color: aqua;
+    font-size: 17px;
+    border-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+
+.resultado{
+    font-size: 28px;
+    border-radius: 50px;
+    background-color: aqua;
+    height: 100px;
+    width: 400px;
+    
+}
