@@ -4,6 +4,9 @@ Esse é um projeto simples para converter um valor em Dólar para Real, feito co
 objetivo de deixar sempre o valor do dólar sincronizado com o valor atual, utilizei Open Exchange Rates API, uma API que fornece informações sobre taxas de câmbio, 
 essa API fornece dados de câmbio em formato JSON, permitindo que você acesse as taxas de câmbio mais recentes para várias moedas em relação ao Dólar Americano.
 
+🔗 [Clique aqui para acessar o conversor](https://eduardafarias.github.io/Conversor-de-moedas/)
+
+
 ![Texto Alternativo](https://wallpapercave.com/uwp/uwp4134296.png)
 
 
